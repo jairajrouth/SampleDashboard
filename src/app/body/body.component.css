@@ -85,18 +85,27 @@ body {
   }
   
   .navbar .form-control {
-    padding: .75rem 1rem;
+    padding: .75rem .75rem;
     border-width: 0;
-    border-radius: 0;
+    background-color:rgb(232, 234, 238);
   }
   
   .form-control-dark {
-    color: #fff;
-    background-color: rgba(255, 255, 255, .1);
-    border-color: rgba(255, 255, 255, .1);
+    color:black;
+    background-color:rgb(232, 234, 238);
+    border-color: rgb(232, 234, 238);
   }
   
-  .form-control-dark:focus {
-    border-color: transparent;
-    box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
+
+  .navbar-nav{
+    background-color:rgb(132, 171, 243);
+  }
+  .navbar-brand{
+    background-color:rgb(132, 171, 243);
+  }
+  .form-control{
+    height: auto;
+  }
+  .fa{
+    font-size: 25px;
   }
