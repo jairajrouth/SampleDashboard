@@ -106,6 +106,14 @@ body {
   .form-control{
     height: auto;
   }
-  .fa{
-    font-size: 25px;
+  .fa {
+    font-size: 22px;
   }
+  .fas{
+    font-size: 22px;
+  }
+
+  .nav-item-side{
+    padding-top: 10px;
+  }
+ 
