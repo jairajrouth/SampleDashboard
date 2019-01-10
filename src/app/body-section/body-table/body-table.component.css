@@ -1,0 +1,30 @@
+
+
+.renew-link{
+    text-decoration: none;
+    margin-left: 155px;
+}
+.col{
+    margin-top: 50px;
+    margin-left: 310px;
+}
+
+.borderLine{
+    margin-left: 450px;;
+    border-bottom:1.1px solid;
+    width: 850px;
+    color: rgb(169, 170, 172);
+    margin-top: 20px;
+}
+
+.card-table{
+    width: 1185px;
+}
+.right-element{
+    text-align: center;
+    width: 380px;
+}
+.mid-element{
+    text-align: center;
+    width: 380px;
+}

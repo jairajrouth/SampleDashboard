@@ -88,6 +88,7 @@ body {
     padding: .75rem .75rem;
     border-width: 0;
     background-color:rgb(232, 234, 238);
+    margin: 0px;
   }
   
   .form-control-dark {
@@ -116,4 +117,6 @@ body {
   .nav-item-side{
     padding-top: 10px;
   }
- 
+ .fa-sign-out-alt{
+   cursor: pointer;
+ }

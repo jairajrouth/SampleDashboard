@@ -1,0 +1,23 @@
+
+.card{
+    width: 350px;
+    border-radius: 10px;
+    float: left;
+    margin:25px;
+}
+
+.col1{
+    margin-left: 310px;
+}
+.color1{
+    background-color: rgb(219, 245, 220);
+}
+.color2{
+    background-color: rgb(250, 228, 195);
+}
+.color3{
+    background-color: rgb(250, 218, 210);
+}
+.fa{
+    font-size: 30px;
+}
