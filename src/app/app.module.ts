@@ -6,18 +6,29 @@ import { AppRoutingModule } from './app-routing.module';
 
 
 import { AppComponent } from './root/app.component';
-import { BodyComponent } from './body-section/body/body.component';
 import { BodyCardComponent } from './body-section/body-card/body-card.component';
 import { BodyTableComponent } from './body-section/body-table/body-table.component';
+import { BodyRecentWorksComponent } from './body-section/body-recent-works/body-recent-works.component';
+
+import { FooterComponent } from './body-section/footer/footer.component';
+import { SidebarComponent } from './sidebar/sidebar.component';
+import { NavbarComponent } from './navbar/navbar.component';
+
+
+
+
 
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    BodyComponent,
     BodyCardComponent,
     BodyTableComponent,
+    BodyRecentWorksComponent,
+    NavbarComponent,
+    FooterComponent,
+    SidebarComponent,
   ],
   imports: [
     BrowserModule,
