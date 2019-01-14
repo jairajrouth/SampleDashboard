@@ -11,5 +11,4 @@ export class BodyRecentWorksComponent implements OnInit {
 
   ngOnInit() {
   }
-
 }

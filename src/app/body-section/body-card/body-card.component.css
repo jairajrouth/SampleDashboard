@@ -1,5 +1,5 @@
 
-.card{
+.card-size{
     width: 350px;
     border-radius: 10px;
     float: left;
@@ -8,6 +8,8 @@
 
 .col1{
     margin-left: 310px;
+    border: 2px solid red;
+    width: 900px;
 }
 .color1{
     background-color: rgb(219, 245, 220);
@@ -20,4 +22,13 @@
 }
 .fa{
     font-size: 30px;
+}
+.col{
+    border: 2px solid blue;
+}
+.card-size{
+    border: 2px solid orange; 
+}
+.row{
+    width: 100%;
 }
