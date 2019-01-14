@@ -4,9 +4,11 @@
     text-decoration: none;
     margin-left: 155px;
 }
-.col{
+.row{
     margin-top: 50px;
-    margin-left: 310px;
+    margin-left: 350px;
+    float: left;
+    width: 75%;
 }
 
 .borderLine{
@@ -17,10 +19,6 @@
     margin-top: 20px;
 }
 
-.card-table{
-    width: 1100px;
-    border: 1px solid rgb(179, 79, 49);
-}
 .right-element{
     text-align: center;
     width: 380px;
@@ -28,4 +26,7 @@
 .mid-element{
     text-align: center;
     width: 380px;
+}
+.card{
+    width: 1250px;
 }
